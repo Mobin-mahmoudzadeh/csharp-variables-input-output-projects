@@ -39,5 +39,20 @@ namespace _01_StudentGradeCalculator
 
             // Determining pass/fail status using ternary operator
             string status = averageGrade >= 12.0 ? "Passed" : "Failed";
+            
+            // --- STEP 3: Displaying the Report Card --- 
+            Console.WriteLine("\n=============================");
+            Console.WriteLine("       REPORT CARD       ");
+            Console.WriteLine("=============================");
+            Console.WriteLine($"Student Name : {studentName}");
+            Console.WriteLine($"Total Marks : {totalSum} / 100");
+            Console.WriteLine($"Average Grade : {averageGrade:F2}");
+            Console.WriteLine($"Final Status : {status}");
+            Console.WriteLine("=============================");
+            
+            // Keeps the console window open
+            Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
+            
     }
 }
