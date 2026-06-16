@@ -53,6 +53,6 @@ namespace _01_StudentGradeCalculator
             // Keeps the console window open
             Console.WriteLine("\nPress any key to exit...");
             Console.ReadKey();
-            
+        }    
     }
 }
