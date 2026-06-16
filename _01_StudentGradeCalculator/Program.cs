@@ -29,6 +29,15 @@ namespace _01_StudentGradeCalculator
             
             Console.Write("Enter Geography grade: ");
             double geographyGrade = Convert.ToDouble(Console.ReadLine());
-        }
+            
+            // --- STEP 2: Calculations & Logic ---
+            // Summing up all grades
+            double totalSum = mathGrade + physicsGrade + chemistryGrade + biologyGrade + geographyGrade;
+            
+            // Calculating the average (divided by 5 subjects)
+            double averageGrade = totalSum / 5;
+
+            // Determining pass/fail status using ternary operator
+            string status = averageGrade >= 12.0 ? "Passed" : "Failed";
     }
 }
