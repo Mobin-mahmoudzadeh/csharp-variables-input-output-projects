@@ -1,0 +1,15 @@
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\bin\Debug\net10.0\_03_TemperatureConverter.exe
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\bin\Debug\net10.0\_03_TemperatureConverter.deps.json
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\bin\Debug\net10.0\_03_TemperatureConverter.runtimeconfig.json
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\bin\Debug\net10.0\_03_TemperatureConverter.dll
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\bin\Debug\net10.0\_03_TemperatureConverter.pdb
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\obj\Debug\net10.0\_03_TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\obj\Debug\net10.0\_03_TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\obj\Debug\net10.0\_03_TemperatureConverter.AssemblyInfo.cs
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\obj\Debug\net10.0\_03_TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\obj\Debug\net10.0\_03_TemperatureConverter.sourcelink.json
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\obj\Debug\net10.0\_03_TemperatureConverter.dll
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\obj\Debug\net10.0\refint\_03_TemperatureConverter.dll
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\obj\Debug\net10.0\_03_TemperatureConverter.pdb
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\obj\Debug\net10.0\_03_TemperatureConverter.genruntimeconfig.cache
+C:\Users\Zaynab\RiderProjects\csharp-variables-input-output-projects\csharp\_03_TemperatureConverter\obj\Debug\net10.0\ref\_03_TemperatureConverter.dll
