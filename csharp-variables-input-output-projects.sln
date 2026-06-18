@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_AgeCalculator", "_02_Ag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_TemperatureConverter", "_03_TemperatureConverter\_03_TemperatureConverter.csproj", "{01217910-944F-4EE1-9FF2-548D20FB9458}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_CurrencyConverter", "_04_CurrencyConverter\_04_CurrencyConverter.csproj", "{08E467D3-877A-41C0-B739-1A59CA37217E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05_RectangleCalculator", "_05_RectangleCalculator\_05_RectangleCalculator.csproj", "{54A6D6C4-F2E8-4191-B0F5-8A98698CC099}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{01217910-944F-4EE1-9FF2-548D20FB9458}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01217910-944F-4EE1-9FF2-548D20FB9458}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01217910-944F-4EE1-9FF2-548D20FB9458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E467D3-877A-41C0-B739-1A59CA37217E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E467D3-877A-41C0-B739-1A59CA37217E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E467D3-877A-41C0-B739-1A59CA37217E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E467D3-877A-41C0-B739-1A59CA37217E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A6D6C4-F2E8-4191-B0F5-8A98698CC099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A6D6C4-F2E8-4191-B0F5-8A98698CC099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A6D6C4-F2E8-4191-B0F5-8A98698CC099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A6D6C4-F2E8-4191-B0F5-8A98698CC099}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\bin\Debug\net10.0\_04_CurrencyConverter.exe
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\bin\Debug\net10.0\_04_CurrencyConverter.deps.json
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\bin\Debug\net10.0\_04_CurrencyConverter.runtimeconfig.json
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\bin\Debug\net10.0\_04_CurrencyConverter.dll
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\bin\Debug\net10.0\_04_CurrencyConverter.pdb
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\obj\Debug\net10.0\_04_CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\obj\Debug\net10.0\_04_CurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\obj\Debug\net10.0\_04_CurrencyConverter.AssemblyInfo.cs
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\obj\Debug\net10.0\_04_CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\obj\Debug\net10.0\_04_CurrencyConverter.sourcelink.json
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\obj\Debug\net10.0\_04_CurrencyConverter.dll
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\obj\Debug\net10.0\refint\_04_CurrencyConverter.dll
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\obj\Debug\net10.0\_04_CurrencyConverter.pdb
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\obj\Debug\net10.0\_04_CurrencyConverter.genruntimeconfig.cache
+C:\Users\Rahim\RiderProjects\csharp-variables-input-output-projects\csharp-variables-input-output-projects\_04_CurrencyConverter\obj\Debug\net10.0\ref\_04_CurrencyConverter.dll

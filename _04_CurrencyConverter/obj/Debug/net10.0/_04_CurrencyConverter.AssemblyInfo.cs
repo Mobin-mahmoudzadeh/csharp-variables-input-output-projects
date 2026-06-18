@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_04_CurrencyConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e7b5a2b2ab39886b420fc2ff23522cd6128ef17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11f38aacebf1619279d295c6ac87f28936bc38f")]
 [assembly: System.Reflection.AssemblyProductAttribute("_04_CurrencyConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_04_CurrencyConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
