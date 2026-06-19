@@ -5,7 +5,6 @@
         <TargetFramework>net10.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <RootNamespace>_08_ElectricityBillCalculator</RootNamespace>
     </PropertyGroup>
 
 </Project>
