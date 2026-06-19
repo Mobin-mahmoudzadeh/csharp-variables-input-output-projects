@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("_05_RectangleCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30b550a7db2f0183794f9bd0e256fae1bc4ab324")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe8f47e13dbe5607f578aea9ab9f0e48a300a197")]
 [assembly: System.Reflection.AssemblyProductAttribute("_05_RectangleCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("_05_RectangleCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
