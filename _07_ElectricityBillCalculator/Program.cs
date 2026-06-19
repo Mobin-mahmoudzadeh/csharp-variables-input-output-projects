@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _08_ElectricityBillCalculator
+namespace _07_ElectricityBillCalculator
 {
     class program
     {
